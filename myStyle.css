@@ -1,0 +1,23 @@
+.carousel-item img{
+    width: 1180px;
+    height: 450px;
+}
+
+.aboutImg{
+    height: 400px;
+    width: 400px;
+}
+
+.conInp{
+    font-weight: bold;
+}
+
+footer {
+    background: black;
+    color: white;
+    padding: 10px 20px;
+}
+
+.center{
+    text-align: center;
+}
